@@ -1,6 +1,6 @@
-Python Implementation of the Apriori Algorithm to generate Association Rules
 ------------------------------------------------------------------------- */
 /*   Copyright (C) 2016 
+                Python Implementation of the Apriori Algorithm to generate Association Rules
                 Author:  bmathew2014@my.fit.edu
                 Florida Tech, Computer Science
    

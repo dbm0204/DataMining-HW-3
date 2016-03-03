@@ -36,8 +36,4 @@ class DataSet:
 	for data in self.records:
 		if data.getValue(attribute)	!= label:
 			raise Exception ('Data not Homogenous')
-	return label
-	
-
-
-			
+	return label			
